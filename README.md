@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Ayinde Samuel!](https://github.com/SamuelCody/)
+## Hey 👋, I'm [Ayinde Samuel!](https://github.com/SamuelCody/), a Fullstack Developer with 8 years of experience.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ayindesamuelayomide)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ayindesamuel.com.ng/)
@@ -10,11 +10,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SamuelCody.SamuelCody&style=flat-square&color=0088cc)
 
-I'm a Physics Graduate 🎓 from University of Ibadan 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-Joined Github **5** years ago.
-
-Since then I pushed **150**+ commits, opened **1**+ issues, submitted **15**+ pull requests and created **17**+ gists.
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
 [![](https://gitwar.herokuapp.com/badge?username=SamuelCody&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
@@ -22,13 +18,12 @@ Since then I pushed **150**+ commits, opened **1**+ issues, submitted **15**+ pu
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Vue, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, Nextjs, <br /> Typescript, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/SamuelCody).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/SamuelCody/SamuelCody/issues/1)! I am happy to help.
 - 👾 &nbsp; Fun fact: Start with a Semicolon.
 - 📫 &nbsp; How to reach me: ayindesamuel0@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://bit.ly/3dKeHT5).
 
 ### My Absolute Favorites:
 
