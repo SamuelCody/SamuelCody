@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/alakowe_dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mr_alakowe/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelCody&show_icons=true&theme=radical&count_private=true)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcody&show_icons=true&theme=transparent)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=SamuelCody.SamuelCody&style=flat-square&color=0088cc)
 
