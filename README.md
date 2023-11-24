@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Ayinde Samuel!](https://github.com/SamuelCody/), a Fullstack Developer with 8 years of experience.
+## Hey 👋, I'm [Ayinde Samuel!](https://github.com/SamuelCody/), a Fullstack Developer with 5+ years of experience.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ayindesamuelayomide)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ayindesamuel.com.ng/)
