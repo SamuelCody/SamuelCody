@@ -12,7 +12,9 @@
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
-[![](https://gitwar.herokuapp.com/badge?username=SamuelCody&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+![My Stats](https://github-readme-stats.vercel.app/api?username=samuelcody&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelcody&theme=vue-dark&hide_border=true)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
