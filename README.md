@@ -6,12 +6,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/alakowe_dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mr_alakowe/)
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelcody&show_icons=true&theme=transparent)
-
-### Glad to see you here! &nbsp;
 ![My Stats](https://github-readme-stats.vercel.app/api?username=samuelcody&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ![My Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelcody&theme=vue-dark&hide_border=true)
+
+### Glad to see you here! &nbsp;
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 
 
