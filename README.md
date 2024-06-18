@@ -5,7 +5,6 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ayindesamuel.com.ng/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/alakowe_dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mr_alakowe/)
-<div class="contra-hire-me-button" data-analyticsUserId="00083878-4ecf-4d09-ad37-94bc9dd58d3f" data-theme="dark" data-username="ayinde_samuel_ew0qdcky"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=samuelcody&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
