@@ -47,20 +47,29 @@ I’ve worked on internal tools, client platforms, and long-term products across
 
 ---
 
-## 📊 GitHub Activity & Metrics
+## 📊 GitHub Overview
 
-### 📈 Overall Metrics (Powered by GitHub Metrics)
+<div align="center">
 
-![GitHub Metrics](https://metrics.lecoq.io/SamuelCody?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0)
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelCody&theme=github_dark"
+/>
 
----
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelCody&theme=github_dark"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelCody&theme=github_dark"
+/>
 
-### 🧩 Language Breakdown & Contribution Summary
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelCody&theme=github_dark"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamuelCody&theme=github_dark&utcOffset=1"
+/>
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelCody&theme=github_dark)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelCody&theme=github_dark)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelCody&theme=github_dark)
+</div>
 
 ---
 
