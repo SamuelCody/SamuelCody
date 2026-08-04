@@ -47,32 +47,6 @@ I’ve worked on internal tools, client platforms, and long-term products across
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamuelCody&theme=github_dark"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamuelCody&theme=github_dark"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamuelCody&theme=github_dark"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SamuelCody&theme=github_dark"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SamuelCody&theme=github_dark&utcOffset=1"
-/>
-
-</div>
-
----
-
 ## 🚀 Current Focus
 
 - Building scalable SaaS and internal tools
