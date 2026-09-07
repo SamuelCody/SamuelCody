@@ -5,7 +5,7 @@ I design and build scalable web applications with strong architecture, performan
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayindesamuelayomide-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayindesamuelayomide)
 [![Portfolio](https://img.shields.io/badge/Portfolio-alakowetech.com-111?style=flat&logo=google-chrome&logoColor=white)](https://alakowetech.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@alakowe_dev-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alakowe_dev)
+[![Twitter](https://img.shields.io/badge/Twitter-@alakowetech-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alakowetech)
 
 ---
 
